@@ -1,0 +1,2 @@
+# face_recognition
+face recognitio coding using haarcascade_frontalface_default
